@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		09FA841E2AB801B800A8CFA8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FA841D2AB801B800A8CFA8 /* main.swift */; };
+		09C32D5F2AB81BB40037E876 /* 1260번dfs,bfs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C32D5E2AB81BB40037E876 /* 1260번dfs,bfs.swift */; };
+		09C32D612AB838B20037E876 /* 2667 상하좌우 dfs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C32D602AB838B20037E876 /* 2667 상하좌우 dfs.swift */; };
+		09FA841E2AB801B800A8CFA8 /* 2606번 바이러스.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FA841D2AB801B800A8CFA8 /* 2606번 바이러스.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +26,9 @@
 
 /* Begin PBXFileReference section */
 		09296F572AA0867D00D724B1 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
-		09FA841D2AB801B800A8CFA8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		09C32D5E2AB81BB40037E876 /* 1260번dfs,bfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1260번dfs,bfs.swift"; sourceTree = "<group>"; };
+		09C32D602AB838B20037E876 /* 2667 상하좌우 dfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2667 상하좌우 dfs.swift"; sourceTree = "<group>"; };
+		09FA841D2AB801B800A8CFA8 /* 2606번 바이러스.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2606번 바이러스.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +69,9 @@
 		09FA841F2AB801C800A8CFA8 /* 그래프와 순회 */ = {
 			isa = PBXGroup;
 			children = (
-				09FA841D2AB801B800A8CFA8 /* main.swift */,
+				09C32D5E2AB81BB40037E876 /* 1260번dfs,bfs.swift */,
+				09FA841D2AB801B800A8CFA8 /* 2606번 바이러스.swift */,
+				09C32D602AB838B20037E876 /* 2667 상하좌우 dfs.swift */,
 			);
 			name = "그래프와 순회";
 			path = "그래프와 순회";
@@ -129,7 +135,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				09FA841E2AB801B800A8CFA8 /* main.swift in Sources */,
+				09C32D5F2AB81BB40037E876 /* 1260번dfs,bfs.swift in Sources */,
+				09FA841E2AB801B800A8CFA8 /* 2606번 바이러스.swift in Sources */,
+				09C32D612AB838B20037E876 /* 2667 상하좌우 dfs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
