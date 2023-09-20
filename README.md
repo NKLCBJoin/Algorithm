@@ -44,7 +44,7 @@
 |박준식|||||
 |이용9|||||
 |김창우|||||
-|김근범|||||
+|김근범|4/16||||
   
 ## 👊🏼 문제 List
 - 각자 느낀 난이도를 🟢(풀만 함) 🟡(절반 이상 품) 🔴(풀지 못한게 많음)  ‼️(사정이 있어 풀지못함) 으로 표시
@@ -63,7 +63,7 @@
 |박준식|23.09.13 - 09.20|백트래킹|![](/BJ_tier_imgs/S3.png)|[백준](https://www.acmicpc.net/problem/15651)|🟡
 |이용9|23.09.13 - 09.20|DP|![](/BJ_tier_imgs/G5.png)|[백준](https://www.acmicpc.net/problem/2293)|🔴
 |김창우|23.09.13 - 09.20|구현|![](/PG_tier_imgs/L2.png)|[백준](https://programmers.co.kr/learn/courses/30/lessons/76502)|🟢
-|김근범|23.09.13 - 09.20|백트래킹|![](/BJ_tier_imgs/G4.png)|[백준](https://www.acmicpc.net/problem/2580)|‼️
+|김근범|23.09.13 - 09.20|그래프와 순회|4개|[백준](https://www.acmicpc.net/problem/2580)|‼️
   
   </div>
   </details>
