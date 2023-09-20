@@ -67,6 +67,21 @@
   
   </div>
   </details>
+    <details>
+  <summary>2주차 </summary>
+  <div markdown="2주차">       
+
+|입사예정자들|날짜|유형|갯수|문제링크|회고||
+|:-:|:-:|:-:|:--:|:----:|:---:|:---:|
+|최지철|23.09.27 - 10.04|그래프와 순회, 그리디|14개|[백준](https://www.acmicpc.net/step/33)|
+|신근재|23.09.13 - 09.20|롤토체스|![](/PG_tier_imgs/L3.png)|[프로그래머스](https://pr‼️ogrammers.co.kr/learn/courses/30/lessons/43162)|🟢
+|박준식|23.09.13 - 09.20|백트래킹|![](/BJ_tier_imgs/S3.png)|[백준](https://www.acmicpc.net/problem/15651)|🟡
+|이용9|23.09.13 - 09.20|DP|![](/BJ_tier_imgs/G5.png)|[백준](https://www.acmicpc.net/problem/2293)|🔴
+|김창우|23.09.13 - 09.20|구현|![](/PG_tier_imgs/L2.png)|[백준](https://programmers.co.kr/learn/courses/30/lessons/76502)|🟢
+|김근범|23.09.13 - 09.20|백트래킹|![](/BJ_tier_imgs/G4.png)|[백준](https://www.acmicpc.net/problem/2580)|‼️
+  
+  </div>
+  </details>
 
 
 
