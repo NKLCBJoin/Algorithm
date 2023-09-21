@@ -46,12 +46,6 @@
 |김창우|0/0||||
 |김근범|4/16||||
   
-## 👊🏼 문제 List
-- 각자 느낀 난이도를 🟢(풀만 함) 🟡(절반 이상 품) 🔴(풀지 못한게 많음)  ‼️(사정이 있어 풀지못함) 으로 표시
-<!-- 
-||22.05.||![](/PG_tier_imgs/L2.png)|[](https://programmers.co.kr/learn/courses/30/lessons/)|| 
-||22.05.||![](/BJ_tier_imgs/G2.png)|[](https://www.acmicpc.net/problem/1759)||
--->
 
 
 
