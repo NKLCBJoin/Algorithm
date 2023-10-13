@@ -79,10 +79,20 @@
 		09296F592AA0867D00D724B1 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				0950FA132AD910AB0038A20E /* 다익스트라 */,
 				09B346B42AC14BA800641F50 /* 그리디 */,
 				09FA841F2AB801C800A8CFA8 /* 그래프와 순회 */,
 			);
 			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		0950FA132AD910AB0038A20E /* 다익스트라 */ = {
+			isa = PBXGroup;
+			children = (
+				09C59E652AD79E5A00A631A7 /* 1753번 최단경로.swift */,
+			);
+			name = "다익스트라";
+			path = "다익스트라";
 			sourceTree = "<group>";
 		};
 		09B346B42AC14BA800641F50 /* 그리디 */ = {
@@ -107,7 +117,6 @@
 				0973D2302AD4F32D00046D5A /* 1012번 배추.swift */,
 				09C59E612AD6313900A631A7 /* 2178 미로.swift */,
 				09C59E632AD644DE00A631A7 /* 1697 숨바꼭질.swift */,
-				09C59E652AD79E5A00A631A7 /* 1753번 최단경로.swift */,
 			);
 			name = "그래프와 순회";
 			path = "그래프와 순회";
